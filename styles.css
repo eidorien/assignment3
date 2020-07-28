@@ -1,3 +1,27 @@
-body {
-    
+.cardName {
+    font-weight: 500;
+}
+
+.redCost {
+    color: red;
+}
+
+.blueCost {
+    color:blue;
+}
+
+.greenCost {
+    color:green;
+}
+
+.whiteCost {
+    color:grey;
+}
+
+.blackCost {
+    color:black;
+}
+
+.totalCost{
+    font-weight: 500;
 }
